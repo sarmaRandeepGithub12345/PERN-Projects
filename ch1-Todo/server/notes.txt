@@ -1,0 +1,4 @@
+npm i express pg cors
+express - allows us to create a server in node js
+cors - allows dfferent domain applications to connect with each other
+pg-helps database connect to server for postgress queries
